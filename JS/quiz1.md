@@ -1,8 +1,7 @@
-Dưới đây là **15 câu hỏi nâng cao**, đã **đánh số thứ tự 1–15**, và **đáp án + giải thích nằm ngay dưới từng câu** — đúng như yêu cầu:
 
 ---
 
-# **BỘ CÂU HỎI JAVASCRIPT NÂNG CAO **
+# **BỘ CÂU HỎI JAVASCRIPT**
 
 ---
 

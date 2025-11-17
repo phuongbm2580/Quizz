@@ -145,4 +145,4 @@ Inline vẫn nhận padding, nhưng line-height của dòng không thay đổi.
 
 ---
 
-Nếu bạn muốn, mình có thể gom lại thành **file bảng trắc nghiệm 50 câu** để bạn dùng cho lớp học luôn!
+

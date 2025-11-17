@@ -1,6 +1,6 @@
 
 
-# **BỘ CÂU HỎI JAVASCRIPT (20 CÂU – MỨC ĐỘ: TRUNG BÌNH)**
+# **BỘ CÂU HỎI JAVASCRIPT (20 CÂU)**
 
 ## **1. Giá trị nào dưới đây là “falsy” trong JavaScript?**
 
@@ -195,17 +195,10 @@ B. Một callback
 C. Một Promise
 D. undefined
 
----
 
 ---
 
-
-
-Tuyệt rồi! Mình sẽ làm **2 phần** như bạn yêu cầu:
-
----
-
-# **PHẦN 1 — ĐÁP ÁN + GIẢI THÍCH CHI TIẾT CHO 20 CÂU TRƯỚC**
+# **ĐÁP ÁN + GIẢI THÍCH**
 
 ---
 
@@ -371,6 +364,5 @@ Dù return 5 cũng sẽ trở thành Promise.resolve(5).
 
 ---
 
----
 
 
